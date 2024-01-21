@@ -6,6 +6,6 @@ public class Logger : MonoBehaviour
 {    
     private void Start()
     {
-        Debug.Log("Hello world!");
+        Debug.Log("111");
     }
 }
